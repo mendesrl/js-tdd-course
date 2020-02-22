@@ -1,0 +1,20 @@
+{
+  "name": "tdd-js",
+  "version": "1.0.0",
+  "description": "nossa biblioteca do curso de tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/mendesrl/js-tdd-course.git)"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Larissa Mendes <ribeiro.larissamendes@gmail.com>",
+  "license": "MIT"
+}
